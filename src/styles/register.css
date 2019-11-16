@@ -1,0 +1,44 @@
+.regist {
+    padding-top: 120px;
+    padding-bottom: 120px;
+    display: flex;
+    justify-content: center;
+}
+.signImg{
+    background: url(../pexels-photo-1036155.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+.windowRegist{
+    background: #ffffffcb;
+    width: 450px;
+    border-radius: 15px;
+}
+.titleError{
+    font-size: 24px;
+    color: #db0000;
+    margin-top: 30px;
+}
+.fieldSign{
+    margin-bottom: 10px;
+}
+.fieldSign input{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+::placeholder {
+    color: #414141;
+  }
+
+.titleSign{
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+.titleSign>h4{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.formSign{
+    margin-top: 20px;
+}

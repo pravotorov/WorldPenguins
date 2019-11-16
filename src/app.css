@@ -1,0 +1,61 @@
+.head {
+    padding-top: 230px;
+    padding-bottom: 170px;
+    background: url(./bg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-weight: bolder;
+}
+
+h2{
+    color:#fafafa;
+    margin-bottom: 200px;
+    margin-top: 0px;
+}
+h4{
+    padding-top: 0px;
+    padding-bottom: 50px;
+}
+.addMenuFact{
+    background: #fc0; /* Цвет фона */
+    box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.transition{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 0;
+    
+}
+
+.leaflet-container {
+    height: 400px;
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
+
+.line-clamp-3 {
+    /* Required declarations: */
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+  
+    /* Limit the text block to three lines */
+    -webkit-line-clamp: 3;
+  }
+
+.items{
+    display: flex;
+}
+
+
+@media only screen and (max-width: 992px) {
+nav .brand-logo {
+    left: 10%; 
+    transform: translateX(25%);
+}
+}

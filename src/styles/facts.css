@@ -1,0 +1,23 @@
+/* Facts  */
+
+.imgFactsPost{
+    margin-top:30px;
+    height: 60%;
+    width: 70%;
+    box-shadow: 0 10px 10px rgba(0,0,0,0.5); /* Параметры тени */
+}
+.textFacts{
+    font-size: 18px;
+    text-indent: 1.5em; 
+    text-align: justify;
+    line-height: 160%;
+    margin-bottom: 100px;
+    
+}
+
+.factsImg{
+    height: 200px;
+}
+.factsContent{
+    height: 200px;
+}

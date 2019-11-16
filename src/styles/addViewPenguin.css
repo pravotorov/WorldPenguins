@@ -1,0 +1,39 @@
+.ImgUpload{
+    height: 250px;
+    width: 97%;
+}
+.titleAdd{
+    margin-top: 70px;
+}
+.Descript{
+    height: 210px;
+    width: 100%;
+    resize: none; 
+    border: 3px solid #cccccc;
+	padding: 5px;
+	font-family: Tahoma, sans-serif;
+}
+.WindowCont{
+    margin: 50px 0;
+}
+
+.EnterTitle{
+    margin: 5px 0 10px 0;
+}
+.WindowPole{
+    margin: 0 0 10px 0;
+}
+
+
+.imgPreview{
+  text-align: center;
+  margin: 5px 15px;
+  height: 200px;
+  width: 90%;
+  border: 1px solid gray;
+}
+.imgPreview img{
+    width: 100%;
+    height: 100%;
+}
+    
